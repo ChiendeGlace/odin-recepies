@@ -1,0 +1,14 @@
+h1 {
+  font-size: 48px;
+  color: rgb(255, 89, 0)
+}
+li a {
+  color: black;
+  font-family:'Courier New', Courier, monospace;
+  text-decoration: none;
+}
+li a:hover {
+  color: rgb(255, 89, 0);
+  font-size: 1.5em;
+  transition: 0.5s
+}
